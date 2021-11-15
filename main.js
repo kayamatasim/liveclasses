@@ -3,3 +3,4 @@ let total=arr.reduce(func);
 function func(total,num){
     return total+num
 }
+//notning
