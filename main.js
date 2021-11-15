@@ -4,3 +4,4 @@ function func(total,num){
     return total+num
 }
 //notning
+//added another commit
