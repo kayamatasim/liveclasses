@@ -6,3 +6,5 @@ function func(total,num){
 //notning
 //added another commit
 //added this in branch one
+//added this using github itself
+console.log('hello from github')
